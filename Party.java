@@ -2,7 +2,6 @@
 public class Party
 {
 	
-	
 	String which;
 	String name;
 	int size;
